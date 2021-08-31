@@ -1,11 +1,13 @@
 {
-  "name": "aliyun-sls-javascript",
-  "version": "1.0.0",
+  "name": "aliyun-sls-client",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": ["dist"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lujiajing1126/aliyun-sls-javascript.git"
